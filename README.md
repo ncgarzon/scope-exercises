@@ -1,12 +1,10 @@
 #[Function Scope Exercises](id:xcredit)
-[Back to Home](https://github.com/bgando/JS102)
+[Forked from bgando/scope-exercises](https://github.com/bgando/JS102)
 
 
 #####It is your mission to go through the function.js file and change all the `'???'` in such a way that all the tests pass true. 
 
 ###Let's get started...
-
-Explore the files in the **ExtraCredit** folder.
  
 Run the  file in a browser. This document shows one passed test and a series of failing tests.
 
